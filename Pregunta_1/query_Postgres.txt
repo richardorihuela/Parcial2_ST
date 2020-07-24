@@ -1,0 +1,12 @@
+create table persona(
+	nombre varchar(20),
+	paterno varchar(20),
+	materno varchar(20)
+);
+
+insert into persona values ('richard', 'orihuela', 'gil');
+insert into persona values ('lizet', 'yujra', 'flores');
+insert into persona values ('andy', 'surita', 'machicado');
+insert into persona values ('monica', 'sosa', 'lopez');
+
+select * from persona
