@@ -1,0 +1,19 @@
+Documentacion de Adventure Works (Escenario y Diccionario de Datos)
+
+Para un mejor trabajo con Adventure Works, se hace necesario conocer el modelo, o "el escenario", como que una base de datos sin escenario, como que no es una base de datos.
+
+Escenarios empresariales de Adventure Works
+
+Adventure Works, la empresa ficticia en la que se basan las bases de datos de ejemplo AdventureWorks, es una gran empresa de fabricación multinacional. La empresa fabrica y vende bicicletas de metal y de metal compuesto en los mercados de Norteamérica, Europa y Asia. Si bien su sede central de operaciones se encuentra en Bothell, Washington, con 290 empleados, en toda su base de mercado tiene distribuidos varios equipos regionales de ventas.
+
+En el año 2000, Adventure Works Cycles compró una pequeña planta de fabricación, Importadores Neptuno, situada en México. Importadores Neptuno fabrica varios subcomponentes muy importantes para la línea de productos de Adventure Works Cycles. Estos subcomponentes se envían a la sede de Bothell para el ensamblado final del producto. En el año 2001, Importadores Neptuno pasó a ser el único fabricante y distribuidor del grupo de productos de bicicletas de paseo.
+
+Tras un año fiscal con muy buenos resultados, Adventure Works Cycles está intentando ampliar su cuota de mercado dirigiendo sus ventas a sus mejores clientes, ampliando la disponibilidad de sus productos en un sitio Web externo, y reduciendo los costos de venta a través de costos de producción más bajos.
+
+Escenarios:
+
+    Escenarios empresariales de Adventure Works Cycles
+    Escenario de ventas y marketing
+    Escenario de producto
+    Escenario de compra y proveedor
+    Escenario de fabricación
